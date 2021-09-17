@@ -5,5 +5,4 @@ class MacroInvocations extends Expr{
     }
 }
 from MacroInvocations m
-
 select m
